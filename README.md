@@ -1,47 +1,7 @@
-基于 ``koa`` 和 ``react`` 搭建的个人博客，风格仿照 [【ECMAScript 6 入门】](http://es6.ruanyifeng.com/)
+基于 ``koa`` 和 ``react`` 搭建的个人博客
 
 基于前后端分离的思想，后端提供接口，前端调用
 
-在线地址请点击这里： [在线地址](http://47.52.5.137:4011)
-
-
-开源代码请点击这里： [github地址](https://github.com/wtfjun/chenxj-blog) 
-
-```bash
-$ node -v
-v8.0.13
-
-$ npm -v
-4.5.0
-```
-
-## 命令使用
-
-### 安装 && 运行
-
-``` bash
-$ cd chenxj-blog
-$ npm install // src包安装
-
-$ cd server
-$ npm install // 后台包安装
-
-$ node run // 启动后台
-$ cd ../
-$ npm run dev // 启动前端
-```
-
-
-
-#### 命令
-
-``` bash
-// 开发
-$ npm run dev
-
-// 打包
-$ npm run build
-```
 
 ## 技术栈
 
